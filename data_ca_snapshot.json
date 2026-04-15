@@ -1,0 +1,112 @@
+{
+  "source_url": "https://data.ca.gov/",
+  "datasets": [
+    {
+      "name": "DIR Electrician Certification Unit (ECU)",
+      "url": "/data/directory/electrician-certification-unit-ecu",
+      "section": "popular",
+      "formats": [
+        "CSV",
+        "Excel"
+      ],
+      "last_updated": "2026-03-15",
+      "recent_views": 12345
+    },
+    {
+      "name": "California Department of Transportation (DOT)",
+      "url": "/data/directory/department-of-transportation",
+      "section": "popular",
+      "formats": [
+        "PDF",
+        "XML"
+      ],
+      "last_updated": "2025-07-20",
+      "recent_views": 67890
+    },
+    {
+      "name": "State Water Resources Control Board (SWRCB)",
+      "url": "/data/directory/state-water-resources-control-board",
+      "section": "popular",
+      "formats": [
+        "JSON",
+        "XML"
+      ],
+      "last_updated": "2026-11-05",
+      "recent_views": 23456
+    },
+    {
+      "name": "California Department of Public Health (CDPH)",
+      "url": "/data/directory/department-of-public-health",
+      "section": "popular",
+      "formats": [
+        "CSV",
+        "XML"
+      ],
+      "last_updated": "2024-09-10",
+      "recent_views": 34567
+    },
+    {
+      "name": "California Energy Commission (CEC)",
+      "url": "https://data.ca.gov/data/directory/energy-commission",
+      "section": "popular",
+      "formats": [
+        "Excel"
+      ],
+      "last_updated": "2026-12-31",
+      "recent_views": null
+    },
+    {
+      "name": "Local Government Public Records Act (PRA)",
+      "url": "/data/directory/local-government-pra",
+      "section": "recent",
+      "formats": [
+        "PDF",
+        "CSV"
+      ],
+      "last_updated": "2026-02-15",
+      "recent_views": 45678
+    },
+    {
+      "name": "California Air Resources Board (CARB)",
+      "url": "/data/directory/air-resources-board",
+      "section": "recent",
+      "formats": [
+        "XML",
+        "Excel"
+      ],
+      "last_updated": "2026-04-05",
+      "recent_views": null
+    },
+    {
+      "name": "California Coastal Commission (CCC)",
+      "url": "https://data.ca.gov/data/directory/coastal-commission",
+      "section": "recent",
+      "formats": [
+        "JSON"
+      ],
+      "last_updated": "2025-01-20",
+      "recent_views": 56789
+    },
+    {
+      "name": "Department of Finance (DOF)",
+      "url": "/data/directory/department-of-finance",
+      "section": "recent",
+      "formats": [
+        "Excel",
+        "PDF"
+      ],
+      "last_updated": null,
+      "recent_views": 67890
+    },
+    {
+      "name": "California Department of Food and Agriculture (CDFA)",
+      "url": "https://data.ca.gov/data/directory/department-of-food-and-agriculture",
+      "section": "recent",
+      "formats": [
+        "CSV"
+      ],
+      "last_updated": "2024-06-12",
+      "recent_views": null
+    }
+  ]
+}
