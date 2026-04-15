@@ -1,7 +1,7 @@
 # AI Web Scraper for California Open Data Portal
 
 **Repo:** https://github.com/akalin23/ca-data-scraper
-**Dataset:** https://github.com/akalin23/ca-data-scraper/raw/refs/heads/main/data_ca_snapshot.json
+**Dataset:** https://github.com/akalin23/ca-data-scraper/blob/main/data_ca_snapshot.json
 
 ## 1. Target
 California Open Data Portal homepage (https://data.ca.gov/). Two sections —
